@@ -1,0 +1,36 @@
+hr.airplane:after{
+
+	content: "\f1d8";
+	font-family: FontAwesome;
+    display: inline-block;
+    position: relative;
+    top: -.8em;
+    font-size: 2em;
+    padding: 0 .25em;
+}
+
+
+
+hr.code:after{
+
+	content: "\f121";
+	font-family: FontAwesome;
+    display: inline-block;
+    position: relative;
+    top: -.8em;
+    font-size: 2em;
+    padding: 0 .25em;
+}
+
+
+
+hr.info:after{
+
+	content: "\f05a";
+	font-family: FontAwesome;
+    display: inline-block;
+    position: relative;
+    top: -.8em;
+    font-size: 2em;
+    padding: 0 .25em;
+}
